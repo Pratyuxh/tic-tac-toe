@@ -1,3 +1,2 @@
 # TIC-TAC-TOE-GAME
-A GAME FOR ALL TIMEPASS PLAYERS.
-Riaxharma was here 
+
